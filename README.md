@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ghazzolino
-- 👀 I’m interested in data analysis and visualization
+- 👀 I’m interested in Data analysis, Business Intelligence and Data Science
 - 🌱 I’m currently learning Panda(Python) and Anaconda(Python), both for data analytics
+
+PS: I have some experience in Web design/Front-End development
 
 
 <!---
