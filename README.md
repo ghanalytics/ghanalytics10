@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghazzolino
+- 👋 Hi, I’m @ghanalytics
 - 👀 I’m interested in Data analysis, Business Intelligence and Data Science
 - 🌱 I’m currently learning Panda(Python) and Anaconda(Python), both for data analytics
 
